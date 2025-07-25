@@ -1,0 +1,25 @@
+"filename", "language", "Python", "YAML", "pip requirements", "JSON", "Markdown", "comment", "blank", "total"
+"/Users/vihaansethi/Formula1mlproject/README.md", "Markdown", 0, 0, 0, 0, 1, 0, 0, 1
+"/Users/vihaansethi/Formula1mlproject/config.yaml", "YAML", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/data/interim/create_interim_data.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/data_visualizations.py", "Python", 431, 0, 0, 0, 0, 60, 115, 606
+"/Users/vihaansethi/Formula1mlproject/learnplotly/app.py", "Python", 485, 0, 0, 0, 0, 25, 81, 591
+"/Users/vihaansethi/Formula1mlproject/learnplotly/main.py", "Python", 303, 0, 0, 0, 0, 17, 50, 370
+"/Users/vihaansethi/Formula1mlproject/learnplotly/visualization.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/notebooks/main_viz_.ipynb", "JSON", 0, 0, 0, 30, 0, 0, 1, 31
+"/Users/vihaansethi/Formula1mlproject/outputs/main.py", "Python", 303, 0, 0, 0, 0, 17, 50, 370
+"/Users/vihaansethi/Formula1mlproject/requirements.txt", "pip requirements", 0, 0, 8, 0, 0, 0, 0, 8
+"/Users/vihaansethi/Formula1mlproject/src/__init__.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/data/__init__.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/data/data_cleaner.py", "Python", 90, 0, 0, 0, 0, 4, 16, 110
+"/Users/vihaansethi/Formula1mlproject/src/data/visualize.py", "Python", 8, 0, 0, 0, 0, 0, 4, 12
+"/Users/vihaansethi/Formula1mlproject/src/features/__init__.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/features/circuit_features.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/features/constructor_features.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/features/driver_features.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/features/feature_builder.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/features/machine_learning_features.py", "Python", 24, 0, 0, 0, 0, 0, 4, 28
+"/Users/vihaansethi/Formula1mlproject/src/models/race_winner_predictor.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/utils/helpers.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vihaansethi/Formula1mlproject/src/visualization/driver_dashboard.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"Total", "-", 1644, 0, 8, 30, 1, 123, 334, 2140

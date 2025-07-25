@@ -1,0 +1,1 @@
+I created this project because I thought it would be really cool to see what all I could do with such a large dataset relating to Formula 1.
